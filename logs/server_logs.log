@@ -1,0 +1,15 @@
+output example
+
+2024-01-14 00:30:17,217 - INFO - Server launched in 127.0.0.1:8080
+2024-01-14 00:30:17,217 - INFO - Access log and server messages are being recorded in 'server_logs.log'
+2024-01-14 00:30:53,467 - INFO - 
+Server terminated by user.
+2024-01-14 00:30:54,218 - INFO - http://localhost
+2024-01-14 00:30:54,218 - INFO - Server launched in 127.0.0.1:8080
+2024-01-14 00:30:54,218 - INFO - Access log and server messages are being recorded in 'server_logs.log'
+2024-01-14 00:31:07,955 - INFO - 
+Server terminated by user.
+2024-01-14 00:31:17,992 - INFO - http://localhost
+2024-01-14 00:31:17,992 - INFO - Server launched in 127.0.0.1:8080
+2024-01-14 00:31:17,992 - INFO - Access log and server messages are being recorded in 'server_logs.log'
+2024-01-14 00:31:51,126 - INFO - 
