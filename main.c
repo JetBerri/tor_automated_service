@@ -51,7 +51,7 @@ int main() {
 
     // Execute installation.py
 
-    executeScript("installation");
+    system("./installation");
 
     // Execute torrc.py
 
