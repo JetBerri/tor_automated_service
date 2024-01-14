@@ -6,6 +6,21 @@ This project provides a set of Python scripts to automate the setup and launch o
 2. `server_execution.py`: A script that sets up a basic HTTP server with Tor-related functionalities.
 3. `torrc.py`: A script to configure the Tor service by downloading a custom torrc configuration file.
 
+## Installation
+
+Follow this instrucions to install and run the program:
+```
+git clone https://github.com/JetBerri/tor_automated_service.git
+cd tor_automated_service
+[RUN AS SUPERUSER]
+./main
+
+# gcc main.c -o main
+# gcc installation.c -o installation
+```
+
+The .c files come already pre-compiled but if you wish you can do it by yourself with `gcc`.
+
 ## Instructions
 
 ### runcmd.py
