@@ -42,7 +42,6 @@ This script, torrc.py, is responsible for configuring the Tor service. It checks
 
 Modify the following variables as needed:
 
-```
 ```python
 RED, GREEN, END_COLOR: ANSI color codes for colored output.
 check_superuser: Function to check superuser privileges and configure Tor.
